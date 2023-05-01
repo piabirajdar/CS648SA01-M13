@@ -8,14 +8,14 @@ let piyush = "Piyush Jadhav";
 let ritesh = "Ritesh Pehlani";
 const element = (
   <ul style={{ color: "blue", fontSize: "24px" }}>
-    <li>{sally}</li>
-    <li>{mark}</li>
-    <li>{holly}</li>
-    <li>{amol}</li>
-    <li>{jay}</li>
-    <li>{saurabh}</li>
-    <li>{pankaj}</li>
-    <li>{eren}</li>
+    <li>{vaibhavi}</li>
+    <li>{shamali}</li>
+    <li>{shruti}</li>
+    <li>{sanket}</li>
+    <li>{prajwal}</li>
+    <li>{eric}</li>
+    <li>{piyush}</li>
+    <li>{ritesh}</li>
   </ul>
 );
 ReactDOM.render(element, document.getElementById("content"));
